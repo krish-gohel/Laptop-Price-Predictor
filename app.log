@@ -1,0 +1,133 @@
+ERROR:root:2025-04-12 23:32:40.191739 - Error loading model/data: node array from the pickle has an incompatible dtype:
+- expected: {'names': ['left_child', 'right_child', 'feature', 'threshold', 'impurity', 'n_node_samples', 'weighted_n_node_samples', 'missing_go_to_left'], 'formats': ['<i8', '<i8', '<i8', '<f8', '<f8', '<i8', '<f8', 'u1'], 'offsets': [0, 8, 16, 24, 32, 40, 48, 56], 'itemsize': 64}
+- got     : [('left_child', '<i8'), ('right_child', '<i8'), ('feature', '<i8'), ('threshold', '<f8'), ('impurity', '<f8'), ('n_node_samples', '<i8'), ('weighted_n_node_samples', '<f8')]
+ERROR:root:2025-04-12 23:43:29.289032 - Error loading model/data: node array from the pickle has an incompatible dtype:
+- expected: {'names': ['left_child', 'right_child', 'feature', 'threshold', 'impurity', 'n_node_samples', 'weighted_n_node_samples', 'missing_go_to_left'], 'formats': ['<i8', '<i8', '<i8', '<f8', '<f8', '<i8', '<f8', 'u1'], 'offsets': [0, 8, 16, 24, 32, 40, 48, 56], 'itemsize': 64}
+- got     : [('left_child', '<i8'), ('right_child', '<i8'), ('feature', '<i8'), ('threshold', '<f8'), ('impurity', '<f8'), ('n_node_samples', '<i8'), ('weighted_n_node_samples', '<f8')]
+ERROR:root:2025-04-12 23:44:36.033225 - Error loading model/data: node array from the pickle has an incompatible dtype:
+- expected: {'names': ['left_child', 'right_child', 'feature', 'threshold', 'impurity', 'n_node_samples', 'weighted_n_node_samples', 'missing_go_to_left'], 'formats': ['<i8', '<i8', '<i8', '<f8', '<f8', '<i8', '<f8', 'u1'], 'offsets': [0, 8, 16, 24, 32, 40, 48, 56], 'itemsize': 64}
+- got     : [('left_child', '<i8'), ('right_child', '<i8'), ('feature', '<i8'), ('threshold', '<f8'), ('impurity', '<f8'), ('n_node_samples', '<i8'), ('weighted_n_node_samples', '<f8')]
+ERROR:root:2025-04-12 23:45:03.655025 - Error loading model/data: node array from the pickle has an incompatible dtype:
+- expected: {'names': ['left_child', 'right_child', 'feature', 'threshold', 'impurity', 'n_node_samples', 'weighted_n_node_samples', 'missing_go_to_left'], 'formats': ['<i8', '<i8', '<i8', '<f8', '<f8', '<i8', '<f8', 'u1'], 'offsets': [0, 8, 16, 24, 32, 40, 48, 56], 'itemsize': 64}
+- got     : [('left_child', '<i8'), ('right_child', '<i8'), ('feature', '<i8'), ('threshold', '<f8'), ('impurity', '<f8'), ('n_node_samples', '<i8'), ('weighted_n_node_samples', '<f8')]
+ERROR:root:2025-04-12 23:49:16.702144 - Error loading model/data: node array from the pickle has an incompatible dtype:
+- expected: {'names': ['left_child', 'right_child', 'feature', 'threshold', 'impurity', 'n_node_samples', 'weighted_n_node_samples', 'missing_go_to_left'], 'formats': ['<i8', '<i8', '<i8', '<f8', '<f8', '<i8', '<f8', 'u1'], 'offsets': [0, 8, 16, 24, 32, 40, 48, 56], 'itemsize': 64}
+- got     : [('left_child', '<i8'), ('right_child', '<i8'), ('feature', '<i8'), ('threshold', '<f8'), ('impurity', '<f8'), ('n_node_samples', '<i8'), ('weighted_n_node_samples', '<f8')]
+INFO:root:2025-04-12 23:51:22.656187 - Model and data loaded successfully
+INFO:root:2025-04-12 23:51:53.032324 - Model and data loaded successfully
+INFO:root:2025-04-12 23:51:57.066369 - Model and data loaded successfully
+ERROR:root:2025-04-12 23:51:57.079764 - Prediction error: X has 12 features, but ColumnTransformer is expecting 14 features as input.
+INFO:root:2025-04-12 23:52:02.732599 - Model and data loaded successfully
+INFO:root:2025-04-12 23:52:03.898884 - Model and data loaded successfully
+INFO:root:2025-04-12 23:52:06.023167 - Model and data loaded successfully
+INFO:root:2025-04-12 23:52:06.183823 - Model and data loaded successfully
+INFO:root:2025-04-12 23:52:06.330670 - Model and data loaded successfully
+INFO:root:2025-04-12 23:52:06.472194 - Model and data loaded successfully
+INFO:root:2025-04-12 23:52:08.013427 - Model and data loaded successfully
+INFO:root:2025-04-12 23:52:09.014051 - Model and data loaded successfully
+INFO:root:2025-04-12 23:52:10.049864 - Model and data loaded successfully
+INFO:root:2025-04-12 23:52:13.131162 - Model and data loaded successfully
+INFO:root:2025-04-12 23:52:14.734476 - Model and data loaded successfully
+INFO:root:2025-04-12 23:52:15.619654 - Model and data loaded successfully
+INFO:root:2025-04-12 23:52:16.754804 - Model and data loaded successfully
+INFO:root:2025-04-12 23:52:17.770532 - Model and data loaded successfully
+INFO:root:2025-04-12 23:52:18.595751 - Model and data loaded successfully
+ERROR:root:2025-04-12 23:52:18.609645 - Prediction error: X has 12 features, but ColumnTransformer is expecting 14 features as input.
+INFO:root:2025-04-12 23:52:19.474619 - Model and data loaded successfully
+ERROR:root:2025-04-12 23:52:19.484488 - Prediction error: X has 12 features, but ColumnTransformer is expecting 14 features as input.
+INFO:root:2025-04-12 23:52:27.103484 - Model and data loaded successfully
+INFO:root:2025-04-12 23:52:30.557975 - Model and data loaded successfully
+INFO:root:2025-04-12 23:52:31.941872 - Model and data loaded successfully
+INFO:root:2025-04-12 23:53:31.113282 - Model and data loaded successfully
+INFO:root:2025-04-12 23:54:02.710906 - Model and data loaded successfully
+INFO:root:2025-04-12 23:54:03.481777 - Model and data loaded successfully
+INFO:root:2025-04-12 23:54:03.866790 - Model and data loaded successfully
+INFO:root:2025-04-12 23:54:04.164847 - Model and data loaded successfully
+INFO:root:2025-04-12 23:54:04.426198 - Model and data loaded successfully
+INFO:root:2025-04-12 23:54:05.090903 - Model and data loaded successfully
+INFO:root:2025-04-12 23:54:05.331548 - Model and data loaded successfully
+INFO:root:2025-04-12 23:54:06.135665 - Model and data loaded successfully
+INFO:root:2025-04-12 23:54:32.879482 - Model and data loaded successfully
+INFO:root:2025-04-12 23:54:33.380682 - Model and data loaded successfully
+INFO:root:2025-04-12 23:54:33.844636 - Model and data loaded successfully
+INFO:root:2025-04-12 23:54:58.848701 - Model and data loaded successfully
+INFO:root:2025-04-12 23:55:30.953056 - Model and data loaded successfully
+INFO:root:2025-04-12 23:55:41.275828 - Model and data loaded successfully
+ERROR:root:2025-04-12 23:55:41.290059 - Prediction error: X has 12 features, but ColumnTransformer is expecting 14 features as input.
+INFO:root:2025-04-12 23:55:43.896664 - Model and data loaded successfully
+INFO:root:2025-04-12 23:55:44.247679 - Model and data loaded successfully
+ERROR:root:2025-04-12 23:55:44.261157 - Prediction error: X has 12 features, but ColumnTransformer is expecting 14 features as input.
+INFO:root:2025-04-12 23:55:45.971168 - Model and data loaded successfully
+INFO:root:2025-04-12 23:55:46.463192 - Model and data loaded successfully
+ERROR:root:2025-04-12 23:55:46.477081 - Prediction error: X has 12 features, but ColumnTransformer is expecting 14 features as input.
+INFO:root:2025-04-12 23:55:48.199964 - Model and data loaded successfully
+INFO:root:2025-04-12 23:55:48.723905 - Model and data loaded successfully
+ERROR:root:2025-04-12 23:55:48.735547 - Prediction error: X has 12 features, but ColumnTransformer is expecting 14 features as input.
+INFO:root:2025-04-12 23:55:50.801784 - Model and data loaded successfully
+INFO:root:2025-04-12 23:55:51.289446 - Model and data loaded successfully
+ERROR:root:2025-04-12 23:55:51.302639 - Prediction error: X has 12 features, but ColumnTransformer is expecting 14 features as input.
+INFO:root:2025-04-12 23:55:52.650640 - Model and data loaded successfully
+INFO:root:2025-04-12 23:55:53.099851 - Model and data loaded successfully
+ERROR:root:2025-04-12 23:55:53.113817 - Prediction error: X has 12 features, but ColumnTransformer is expecting 14 features as input.
+INFO:root:2025-04-12 23:55:55.394147 - Model and data loaded successfully
+INFO:root:2025-04-12 23:55:55.795150 - Model and data loaded successfully
+ERROR:root:2025-04-12 23:55:55.810024 - Prediction error: X has 12 features, but ColumnTransformer is expecting 14 features as input.
+INFO:root:2025-04-12 23:56:04.617125 - Model and data loaded successfully
+ERROR:root:2025-04-12 23:56:04.627738 - Prediction error: X has 12 features, but ColumnTransformer is expecting 14 features as input.
+INFO:root:2025-04-12 23:56:05.203323 - Model and data loaded successfully
+ERROR:root:2025-04-12 23:56:05.218025 - Prediction error: X has 12 features, but ColumnTransformer is expecting 14 features as input.
+INFO:root:2025-04-12 23:56:05.535332 - Model and data loaded successfully
+ERROR:root:2025-04-12 23:56:05.544665 - Prediction error: X has 12 features, but ColumnTransformer is expecting 14 features as input.
+INFO:root:2025-04-12 23:56:05.675480 - Model and data loaded successfully
+ERROR:root:2025-04-12 23:56:05.689894 - Prediction error: X has 12 features, but ColumnTransformer is expecting 14 features as input.
+INFO:root:2025-04-12 23:56:05.821548 - Model and data loaded successfully
+ERROR:root:2025-04-12 23:56:05.835703 - Prediction error: X has 12 features, but ColumnTransformer is expecting 14 features as input.
+INFO:root:2025-04-12 23:56:05.973059 - Model and data loaded successfully
+ERROR:root:2025-04-12 23:56:05.987694 - Prediction error: X has 12 features, but ColumnTransformer is expecting 14 features as input.
+INFO:root:2025-04-12 23:56:11.979644 - Model and data loaded successfully
+INFO:root:2025-04-12 23:56:13.376222 - Model and data loaded successfully
+INFO:root:2025-04-12 23:56:14.784089 - Model and data loaded successfully
+INFO:root:2025-04-12 23:56:16.479291 - Model and data loaded successfully
+ERROR:root:2025-04-12 23:56:16.492835 - Prediction error: X has 12 features, but ColumnTransformer is expecting 14 features as input.
+INFO:root:2025-04-12 23:56:18.818994 - Model and data loaded successfully
+INFO:root:2025-04-12 23:56:21.929230 - Model and data loaded successfully
+INFO:root:2025-04-12 23:56:24.191960 - Model and data loaded successfully
+ERROR:root:2025-04-12 23:56:24.201862 - Prediction error: X has 12 features, but ColumnTransformer is expecting 14 features as input.
+INFO:root:2025-04-12 23:56:24.778133 - Model and data loaded successfully
+ERROR:root:2025-04-12 23:56:24.785424 - Prediction error: X has 12 features, but ColumnTransformer is expecting 14 features as input.
+INFO:root:2025-04-12 23:56:24.930043 - Model and data loaded successfully
+ERROR:root:2025-04-12 23:56:24.937465 - Prediction error: X has 12 features, but ColumnTransformer is expecting 14 features as input.
+INFO:root:2025-04-13 00:01:10.385662 - Model and data loaded successfully
+INFO:root:2025-04-13 00:01:12.209465 - Model and data loaded successfully
+ERROR:root:2025-04-13 00:01:12.219701 - Prediction error: X has 12 features, but ColumnTransformer is expecting 14 features as input.
+INFO:root:2025-04-13 00:01:12.993914 - Model and data loaded successfully
+ERROR:root:2025-04-13 00:01:12.999293 - Prediction error: X has 12 features, but ColumnTransformer is expecting 14 features as input.
+INFO:root:2025-04-13 00:01:13.153660 - Model and data loaded successfully
+ERROR:root:2025-04-13 00:01:13.157660 - Prediction error: X has 12 features, but ColumnTransformer is expecting 14 features as input.
+INFO:root:2025-04-13 00:01:13.303447 - Model and data loaded successfully
+ERROR:root:2025-04-13 00:01:13.312730 - Prediction error: X has 12 features, but ColumnTransformer is expecting 14 features as input.
+INFO:root:2025-04-13 00:01:13.435385 - Model and data loaded successfully
+ERROR:root:2025-04-13 00:01:13.450717 - Prediction error: X has 12 features, but ColumnTransformer is expecting 14 features as input.
+INFO:root:2025-04-13 00:01:48.261338 - Model and data loaded successfully
+INFO:root:2025-04-13 00:01:49.939325 - Model and data loaded successfully
+INFO:root:2025-04-13 00:01:51.420095 - Model and data loaded successfully
+INFO:root:2025-04-13 00:02:01.297931 - Model and data loaded successfully
+INFO:root:2025-04-13 00:02:05.722672 - Model and data loaded successfully
+INFO:root:2025-04-13 00:02:22.210638 - Model and data loaded successfully
+INFO:root:2025-04-13 00:02:23.307689 - Model and data loaded successfully
+INFO:root:2025-04-13 00:02:24.620579 - Model and data loaded successfully
+INFO:root:2025-04-13 00:02:26.644308 - Model and data loaded successfully
+INFO:root:2025-04-13 00:02:28.540260 - Model and data loaded successfully
+INFO:root:2025-04-13 00:02:31.178767 - Model and data loaded successfully
+INFO:root:2025-04-13 00:02:34.525666 - Model and data loaded successfully
+INFO:root:2025-04-13 00:02:37.667090 - Model and data loaded successfully
+ERROR:root:2025-04-13 00:02:37.676819 - Prediction error: X has 12 features, but ColumnTransformer is expecting 14 features as input.
+INFO:root:2025-04-13 00:02:38.428070 - Model and data loaded successfully
+ERROR:root:2025-04-13 00:02:38.442160 - Prediction error: X has 12 features, but ColumnTransformer is expecting 14 features as input.
+INFO:root:2025-04-13 00:02:38.565410 - Model and data loaded successfully
+ERROR:root:2025-04-13 00:02:38.580529 - Prediction error: X has 12 features, but ColumnTransformer is expecting 14 features as input.
+INFO:root:2025-04-13 00:02:38.722630 - Model and data loaded successfully
+ERROR:root:2025-04-13 00:02:38.732301 - Prediction error: X has 12 features, but ColumnTransformer is expecting 14 features as input.
+INFO:root:2025-04-13 00:09:14.834579 - Model and data loaded successfully
+INFO:root:2025-04-13 00:10:45.128782 - Model and data loaded successfully
+ERROR:root:2025-04-13 00:10:45.145142 - Prediction error: X has 12 features, but ColumnTransformer is expecting 14 features as input.
